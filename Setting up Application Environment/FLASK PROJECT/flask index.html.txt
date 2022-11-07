@@ -1,0 +1,18 @@
+<html> 
+ <head> 
+ <title>Flask project</title> 
+ <h1>Welcome to Flask program<h1> 
+ </head> 
+ <body> 
+ <h3>Smart Fashion Recommender Application </h3> 
+ <h3>TEAM ID:PNT2022TMID02772</h3> 
+ <h3>TEAM MEMBERS:</h3> 
+ <ul> 
+ <li>Ponvarshini A</li> 
+ <li>Mohammed Shiyas S</li> 
+ <li>Mohamed Asim VA</li> 
+ <li>Navin Jagadish P</li> 
+ </ul> 
+ </div> 
+ </body> 
+ </html>
